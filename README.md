@@ -13,9 +13,12 @@ This project is set up with a Postgres backend (can be easily adjusted using GOR
 - Password: 'todolist'
 
 From the directory, run
+
     go run server.go
 
 If making changes to the JavaScript files, in a terminal window cd'd to the todo directory:
-    sudo npm install
-    sudo npm start
+
+    npm install
+    npm start
+    
 Read more about Flux & React at https://github.com/facebook/flux
